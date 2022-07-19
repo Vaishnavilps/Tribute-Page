@@ -1,0 +1,50 @@
+#image{
+  max-width:100%;
+  height:auto;
+  display: block;
+  margin: 0 auto;
+  
+}
+#image-div{
+
+  background-color:#bfb2d3;
+  padding: 10px 20px;
+  margin: 0;
+  
+}
+#kalam{
+  background-color: lightyellow;
+
+}
+a:hover{
+  background-color: brown;
+}
+a:visited{
+color: white;
+}
+a:active{
+  color: white;
+}
+
+#tribute-info, #timeline{
+  background-color: #E3C6C6;
+}
+#kalam{
+  background-color: #E3C6C6;
+}
+body{
+  background-color: #D5D4F9;
+  font-family: Times New Roman;
+}
+figure{
+  background-color: white;
+}
+#quote{
+  font-family: Times New Roman ;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 17px;
+}
+.center{
+  text-align: center;
+}
